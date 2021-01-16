@@ -1,3 +1,3 @@
-# maven-project
+# Code files for Hello-world Java App
 
-Simple Maven Project
+Simple Hello-world java project for CI/CD Project
